@@ -1,6 +1,6 @@
 {
   "full_name": "Kyle Robertson",
-  "email": "kylewesleyr@gmail.com",
+  "email": "kyle.wesley@me.com",
   "github_username": "kwrobert",
   "project_name": "Python Boilerplate",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
